@@ -1,0 +1,10 @@
+How do you define a KPI in Power BI and what are some examples of KPIs?
+Can you explain how you would set up a KPI in Power BI, including the steps and necessary components?
+How do you ensure the accuracy and reliability of your KPIs in Power BI?
+How do you use conditional formatting to highlight important information in a KPI visual?
+Can you explain how you would use a KPI visual in combination with other Power BI visualizations to provide meaningful insights?
+How do you use Drill Through and Drill Down feature in Power BI KPI?
+How do you handle the missing data in KPI calculations?
+How do you monitor and evaluate the performance of your KPIs over time in Power BI?
+How do you use the KPI alerts feature in Power BI to notify stakeholders of important changes in KPI performance?
+Can you walk me through a real-world example of how you used Power BI to track and improve a business metric using a KPI?
